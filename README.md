@@ -1,2 +1,3 @@
-# macOs_project
+# macsoft_project
 here is a macos mimiced project!
+ This is a multifunctional desktop utility application built using Python's Tkinter library. It provides a variety of essential tools, including system diagnostics, battery and audio controls, brightness adjustment, and real-time weather updates. The application features a clean and organized GUI with easy access to utilities like weather information, calendar, clock, and quick Google access. With intuitive controls and real-time data updates, this aims to streamline basic system operations, making it a convenient hub for productivity and device management.
